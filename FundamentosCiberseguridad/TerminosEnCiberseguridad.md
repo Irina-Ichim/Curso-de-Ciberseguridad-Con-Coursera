@@ -35,3 +35,35 @@
 17. **Virus informático (Virus):** Código malicioso creado para interferir en el funcionamiento de las computadoras y dañar los datos y el software.
 
 18. **Vishing:** Tipo de estafa por suplantación de identidad en la que se busca obtener información sensible a través de una llamada telefónica.
+
+19. **Activo:** Elemento percibido como valioso para una organización.
+
+20. **Arquitectura de seguridad:** Tipo de diseño de seguridad compuesto por múltiples herramientas y procesos, que se utiliza para proteger a una organización de los riesgos y amenazas externas.
+
+21. **Confidencialidad:** Propiedad según la cual únicamente las personas autorizadas pueden acceder a activos o datos específicos.
+
+22. **Controles de seguridad:** Pautas diseñadas para abordar y eliminar riesgos de seguridad específicos, como la alteración o la eliminación de información de perfiles, entre otros.
+
+23. **Disponibilidad:** Principio según el cual los datos son accesibles para las personas autorizadas a utilizarlos.
+
+24. **Ética de la seguridad:** Pautas para tomar decisiones apropiadas como profesional de la seguridad.
+
+25. **Gobernanza de seguridad:** Prácticas que ayudan a apoyar, definir y dirigir los esfuerzos de seguridad de una organización.
+
+26. **Hacktivista:** Persona que utiliza el hacking para lograr objetivos políticos.
+
+27. **Información médica protegida (PHI por sus siglas en inglés):** Cualquier información relacionada con la salud, o la condición física o mental pasada, presente o futura de una persona.
+
+28. **Integridad:** Cualidad que identifica a los datos como correctos, auténticos y confiables.
+
+29. **Ley de Transferencia y Responsabilidad de los Seguros Médicos (HIPAA):** Ley federal de los Estados Unidos establecida para proteger la información de salud de los pacientes.
+
+30. **Marco de Ciberseguridad del Instituto Nacional de Estándares y Tecnología (NIST por sus siglas en inglés):** Marco de adhesión voluntaria creado en los Estados Unidos, que incluye estándares, pautas y prácticas recomendadas para gestionar los riesgos de ciberseguridad.
+
+31. **Marcos de seguridad:** Pautas utilizadas para crear planes que ayuden a mitigar el riesgo y las amenazas a los datos y la privacidad.
+
+32. **Open Web Application Security Project (OWASP):** Organización sin fines de lucro centrada en mejorar la seguridad de software.
+
+33. **Protección de la privacidad:** Acto de proteger la información personal de usos no autorizados.
+
+34. **Tríada de confidencialidad, integridad y disponibilidad (CID):** Guía que ayuda a las organizaciones a evaluar los riesgos y establecer sistemas y políticas de seguridad. 
