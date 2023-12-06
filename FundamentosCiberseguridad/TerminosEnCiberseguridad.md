@@ -67,3 +67,28 @@
 33. **Protección de la privacidad:** Acto de proteger la información personal de usos no autorizados.
 
 34. **Tríada de confidencialidad, integridad y disponibilidad (CID):** Guía que ayuda a las organizaciones a evaluar los riesgos y establecer sistemas y políticas de seguridad. 
+
+35. **Analizador de protocolo de red (rastreador de paquetes):** Herramienta diseñada para capturar y analizar el tráfico de datos dentro de una red.
+
+36. **Base de datos:** Colección organizada de información o datos estructurados.
+
+37. **Información de seguridad y gestión de eventos (SIEM):** Solución de seguridad que recopila y analiza los datos de registro para monitorear actividades críticas en una organización.
+
+38. **Linux:** Sistema operativo de código abierto.
+
+39. **Orden de volatilidad:** Secuencia que establece el orden en que deben conservarse los datos, del primero al último, en relación al tiempo en que estarán disponibles.
+
+40. **Programación:** Proceso que permite crear un conjunto específico de instrucciones para que una computadora ejecute tareas.
+
+41. **Protección y preservación de la evidencia:** Proceso de trabajar adecuadamente con evidencia digital frágil y volátil.
+
+42. **Punto de dato:** Elemento de información específico.
+
+43. **Registro:** Inventario de eventos que tienen lugar dentro de los sistemas de una organización.
+
+44. **Sistema de detección de intrusiones (IDS):** Aplicación que monitorea la actividad del sistema en busca de actividades intrusivas y toma medidas para detenerlas.
+
+45. **Software de antivirus:** Programa utilizado para prevenir, detectar, y eliminar software malicioso y virus.
+
+46. **SQL (Structured Query Language):** Lenguaje de programación utilizado para crear, interactuar y solicitar información de una base de datos.  
+
