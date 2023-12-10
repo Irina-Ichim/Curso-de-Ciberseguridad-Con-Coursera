@@ -92,3 +92,36 @@
 
 46. **SQL (Structured Query Language):** Lenguaje de programación utilizado para crear, interactuar y solicitar información de una base de datos.  
 
+47. **Amenaza externa:** Cualquier cosa fuera de la organización que tenga el potencial de dañar los activos de esta.
+
+48. **Amenaza interna:** Riesgo a la seguridad producido por una persona que pertenece o perteneció a una empresa o tiene una relación directa o de confianza con ella.
+
+49. **Autorizar:** Sexto paso del Marco de Gestión de Riesgos (RMF) del NIST, que se refiere a asumir la responsabilidad de los riesgos de seguridad y privacidad que puedan existir en una organización.
+
+50. **Categorizar:** Segundo paso del Marco de Gestión de Riesgos (RMF) del NIST, que se lleva a cabo para desarrollar procesos y tareas de gestión de riesgos.
+
+51. **Continuidad del negocio:** Capacidad de una organización para mantener su productividad diaria mediante el establecimiento de planes de recuperación de riesgos de desastre.
+
+52. **Evaluar:** Quinto paso del Marco de Gestión de Riesgos (RMF) del NIST, para determinar si los controles establecidos se han implementado correctamente.
+
+53. **Implementar:** Cuarto paso del Marco de Gestión de Riesgos (RMF) del NIST, que consiste en aplicar planes de seguridad y privacidad en una organización.
+
+54. **Ingeniería social:** Técnica de manipulación que busca engañar a las personas con el fin de que revelen información o realicen determinadas acciones.
+
+55. **Monitorear:** Séptimo paso del Marco de Gestión de Riesgos (RMF) del NIST, que consiste en evaluar cómo están funcionando los sistemas.
+
+56. **Postura de seguridad:** Capacidad de una organización para administrar la defensa de sus activos y datos críticos, y de reaccionar ante los cambios.
+
+57. **Preparar:** Primer paso del Marco de Gestión de Riesgos (RMF) del NIST, relacionado con las actividades necesarias para gestionar los riesgos de seguridad y privacidad antes de que se produzca una vulneración.
+
+58. **Ransomware (secuestro de datos):** Ataque malicioso en el que quien lo perpetra cifra los datos de una organización y exige un pago (rescate) para restablecer el acceso a ellos.
+
+59. **Reducción del riesgo:** Proceso de disponer de los procedimientos y reglas adecuados para reducir rápidamente el impacto de un riesgo, como una vulneración.
+
+60. **Responsabilidad compartida:** Idea de que todos los individuos dentro de una organización asumen un papel activo en la reducción del riesgo y el mantenimiento de la seguridad física y virtual.
+
+61. **Riesgo:** Cualquier cosa que pueda afectar a la confidencialidad, integridad o disponibilidad de un activo.
+
+62. **Seleccionar:** Tercer paso del Marco de Gestión de Riesgos (RMF) del NIST, que consiste en elegir, personalizar y capturar la documentación de los controles que protegen a una organización.
+
+63. **Vulnerabilidad:** Debilidad que puede ser aprovechada por una amenaza.
