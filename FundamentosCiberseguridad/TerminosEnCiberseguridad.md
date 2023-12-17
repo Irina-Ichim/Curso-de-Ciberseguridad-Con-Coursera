@@ -125,3 +125,51 @@
 62. **Seleccionar:** Tercer paso del Marco de Gestión de Riesgos (RMF) del NIST, que consiste en elegir, personalizar y capturar la documentación de los controles que protegen a una organización.
 
 63. **Vulnerabilidad:** Debilidad que puede ser aprovechada por una amenaza.
+
+64. **Activo:** Elemento percibido como valioso para una organización.
+
+65. **Amenaza:** Cualquier circunstancia o evento que pueda afectar los activos de manera negativa.
+
+66. **Auditoría de seguridad:** Revisión de los controles, políticas y procedimientos de seguridad de una organización.
+
+67. **Autenticación:** Proceso de verificar la identidad de una persona.
+
+68. **Autorizar:** Sexto paso del Marco de Gestión de Riesgos (RMF) del NIST que se refiere a asumir la responsabilidad de los riesgos de seguridad y privacidad que puedan existir en una organización.
+
+69. **Cifrado:** El proceso de convertir datos de un formato legible a uno  legible con el fin de protegerlos.
+
+70. **Confidencialidad:** Propiedad según la cual únicamente las personas autorizadas pueden acceder a activos o datos específicos.
+
+71. **Controles de seguridad:** Medidas de prevención diseñadas para reducir riesgos de ciberseguridad específicos.
+
+72. **Datos biométricos:** Características físicas únicas que se pueden utilizar para verificar la identidad de una persona.
+
+73. **Detectar:** Una función central del NIST relacionada con la identificación de posibles incidentes de seguridad y la mejora de las capacidades de monitoreo y respuesta.
+
+74. **Disponibilidad:** Propiedad según la cual todas las personas autorizadas pueden acceder a activos o datos específicos.
+
+75. **Identificar:** Una función central del NIST relacionada con la gestión del riesgo de ciberseguridad y su efecto sobre las personas y los activos de una organización.
+
+76. **Integridad:** Cualidad que identifica a los datos como correctos, auténticos y confiables.
+
+77. **Marco de Ciberseguridad (CSF) del Instituto Nacional de Estándares y Tecnología (NIST):** Marco de adhesión voluntaria creado en los Estados Unidos, que incluye estándares, pautas y prácticas recomendadas para gestionar los riesgos de ciberseguridad.
+
+78. **Marcos de seguridad:** Pautas utilizadas para crear planes que ayuden a mitigar el riesgo y las amenazas a los datos y la privacidad.
+
+79. **Open Web Application Security Project (OWASP):** Organización sin fines de lucro centrada en mejorar la seguridad del software.
+
+80. **Postura de seguridad:** Capacidad de una organización para administrar la defensa de sus activos y datos críticos y reaccionar ante los cambios.
+
+81. **Proteger:** Una función central del NIST que consiste en resguardar a una organización a través de la implementación de políticas, procedimientos, capacitación y herramientas que ayuden a mitigar las amenazas a la ciberseguridad.
+
+82. **Publicación Especial (SP) del Instituto Nacional de Normas y Tecnología (NIST) 800-53:** Marco unificado para proteger la seguridad de los sistemas de información dentro del gobierno federal de los EE.UU.
+
+83. **Responder:** Funciónunción central del NIST que consiste en restablecer el funcionamiento normal de los sistemas afectados.
+
+84. **Respuesta:** Una función central del NIST relacionada con asegurarse de que se utilicen los procedimientos adecuados para contener, neutralizar y analizar incidentes de seguridad, e implementar mejoras en el proceso de seguridad.
+
+85. **Riesgo:** Cualquier hecho que pueda afectar a la confidencialidad, integridad o disponibilidad de un activo.
+
+86. **Tríada de confidencialidad, integridad y disponibilidad (CID):** Guía que ayuda a las organizaciones a evaluar los riesgos y establecer sistemas y políticas de seguridad.
+
+87. **Vector de ataque:** Método que se utiliza para penetrar las defensas de seguridad de un sistema informático.
