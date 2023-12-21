@@ -173,3 +173,23 @@
 86. **Tríada de confidencialidad, integridad y disponibilidad (CID):** Guía que ayuda a las organizaciones a evaluar los riesgos y establecer sistemas y políticas de seguridad.
 
 87. **Vector de ataque:** Método que se utiliza para penetrar las defensas de seguridad de un sistema informático.
+
+88. **Chronicle:** Herramienta nativa de la nube diseñada para conservar, analizar y buscar datos.
+
+89. **Información de seguridad y gestión de eventos (SIEM):** Aplicación que recopila y analiza datos de registro para monitorear actividades críticas en una organización.
+
+90. **Manual de estrategias:** Guía que proporciona detalles sobre cualquier acción operativa.
+
+91. **Métricas:** Atributos técnicos clave, como el tiempo de respuesta, la disponibilidad y la tasa de fallos, que se utilizan para evaluar el rendimiento de una aplicación de software.
+
+92. **Orquestación, automatización y respuesta de seguridad (SOAR):** Conjunto de aplicaciones, herramientas y flujos de trabajo que utilizan la automatización para responder a incidentes de seguridad.
+
+93. **Registro:** Inventario de eventos que tienen lugar dentro de los sistemas de una organización.
+
+94. **Respuesta a incidentes:** Intento rápido de una organización de identificar un ataque, contener los daños y corregir los efectos de una infracción de seguridad.
+
+95. **Sistema Operativo (SO):** Interfaz entre la computadora y el/la usuario/a.
+
+96. **Splunk Cloud:** Herramienta alojada en la nube que se utiliza para recopilar, buscar y monitorear datos de registro.
+
+97. **Splunk Enterprise:** Herramienta utilizada para retener, analizar y buscar datos de registro de una organización y proporcionar información de seguridad y alertas en tiempo real.
